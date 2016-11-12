@@ -1,0 +1,41 @@
+body{
+        font-family: Helvetica, sans-serif;
+}
+
+h1{
+        width: 80%;
+        margin-left: 10%;
+        color: white;
+        font-weight: bold;
+        background: #1F2A7F;
+        padding: 30px 10px;
+}
+
+div{
+        width: 80%;
+        margin-left: 10%;
+}
+
+#controls{
+        
+        color: #1F2A7F;
+        padding: 20px 10px;
+        border-bottom: 2px solid #1F2A7F;
+        border-top: 2px solid #1F2A7F;
+}
+
+#lookup{
+        background: #1F2A7F;
+        color: white;
+        padding: 3px 3px;
+        border-radius: 5px;
+        border-color: #1F2A7F;
+        box-shadow: none;
+}
+
+ul{
+        list-style: none;
+        color: #1F2A7F;
+        font-size: 18px;
+        line-height: 2;
+}
